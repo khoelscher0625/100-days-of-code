@@ -3,6 +3,7 @@
 ### Day 0: Thursday, October 8, 2020 - Setting up GitHub for logging and pushing projects. 
 
 **Today's Progress**: 
+
 **Thoughts:** 
 
 
