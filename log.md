@@ -1,14 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 0: Thursday, October 8, 2020 - Setting up GitHub for logging and pushing projects. 
+### Day 1: Thursday, October 8, 2020 - Setting up GitHub and starting to code.
 
-**Today's Progress**: 
+**Today's Progress**: Completed the Basic HTML and HTML5 lesson from freeCodeCamp.
 
-**Thoughts:** 
+**Thoughts:** Today was a good day of building confidence. I new most of the topics that were being taught, but I was able to complete the challenges pretty easily. I appreciated that I could do the coding. Looking forward to tomorrow and the next 99 days. 
 
 
 
-### Day 1: 
+### Day 2: 
 
 **Today's Progress**: 
 
