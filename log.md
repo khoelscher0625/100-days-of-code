@@ -8,11 +8,11 @@
 
 
 
-### Day 2: 
+### Day 2: Friday, October 9th, 2020
 
-**Today's Progress**: 
+**Today's Progress**: Completed CSS Basics course from freeCodeCamp.
 
-**Thoughts** 
+**Thoughts** Enjoyed the refresher of CSS properties. I was pleased that I learned more about CSS class and id selectors, as well as custom CSS variables and how they are inherited. Look forward to using these new skills in future projects. 
 
 **Link(s) to work**
 
