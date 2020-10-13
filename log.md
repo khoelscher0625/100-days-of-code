@@ -20,5 +20,11 @@
 
 **Thoughts** Really enjoyed today's coding. It was some fundamental understanding that I needed and didn't get in the few classes I have taken. Reminded myself that this coding challenge isn't about completion, it is about coding everyday. I missed a few days unfortunately in the chaos of life, but I am back now and ready to head full steam!
 
+### Day 4: Tuesday, October 13th, 2020
+
+**Today's Progress**: Finished the Applied Visual Design lessons on freeCodeCamp
+
+**Thoughts** Felt great! Learned some interesting ways to use animations of elements. Used skews, ::before, ::after, and @keyframes.
+
 **Link(s) to work**
 
