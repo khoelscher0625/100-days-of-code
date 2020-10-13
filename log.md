@@ -14,5 +14,11 @@
 
 **Thoughts** Enjoyed the refresher of CSS properties. I was pleased that I learned more about CSS class and id selectors, as well as custom CSS variables and how they are inherited. Look forward to using these new skills in future projects. 
 
+### Day 3: Monday, October 12th, 2020
+
+**Today's Progress**: Started the Applied Visual Design lessons on freeCodeCamp
+
+**Thoughts** Really enjoyed today's coding. It was some fundamental understanding that I needed and didn't get in the few classes I have taken. Reminded myself that this coding challenge isn't about completion, it is about coding everyday. I missed a few days unfortunately in the chaos of life, but I am back now and ready to head full steam!
+
 **Link(s) to work**
 
