@@ -26,5 +26,11 @@
 
 **Thoughts** Felt great! Learned some interesting ways to use animations of elements. Used skews, ::before, ::after, and @keyframes.
 
+### Day 5: Wednesday, October 14th, 2020
+
+**Today's Progress**: Started the Accessibility Design lessons on freeCodeCamp
+
+**Thoughts** Loved coding today's lessons. As a former educator who worked with student's with disabilities, it is important to me that any project I work on is accessible for anyone trying to access it. I look forward to using this skills to improve the projects I have already created and implementing them in to the design and development of any future project. 
+
 **Link(s) to work**
 
