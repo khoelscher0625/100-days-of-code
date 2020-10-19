@@ -32,5 +32,17 @@
 
 **Thoughts** Loved coding today's lessons. As a former educator who worked with student's with disabilities, it is important to me that any project I work on is accessible for anyone trying to access it. I look forward to using this skills to improve the projects I have already created and implementing them in to the design and development of any future project. 
 
+### Day 6: Thursday, October 16th, 2020
+
+**Today's Progress**: Finished the Accessibility Design lessons and Responsive Web Design lessons on freeCodeCamp
+
+**Thoughts** Coding in HTML and CSS is fairly easy for me. I am created a notebook of the properties so that when I want to use them, I will have an easily accessible resource, right at my finger tips. 
+
+### Day 7: Monday, October 19th, 2020
+
+**Today's Progress**: Completed the CSS Flexbox lessons on freeCodeCamp
+
+**Thoughts** I love that I have found a resource that allows me to apply the skills I already have, and then learn new ones related to them. I may have to do #100DaysofCode slightly different than originally planned. With my family life, it is better for me to code Monday through Friday. I still the skills that I need and am able to balance home life responsibilities. 
+
 **Link(s) to work**
 
