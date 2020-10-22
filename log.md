@@ -50,7 +50,7 @@
 
 **Thoughts** New learning for CSS. CSS Grid frameworks are so amazing. I love that each day I am learning more fundamentals that will aide me in my further development in front end design and developing. 
 
-### Day 8: Wednesday, October 21st, 2020
+### Day 9: Wednesday, October 21st, 2020
 
 **Today's Progress**: Updating and refining my Front End Development Portfolio
 
