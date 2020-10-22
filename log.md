@@ -50,5 +50,11 @@
 
 **Thoughts** New learning for CSS. CSS Grid frameworks are so amazing. I love that each day I am learning more fundamentals that will aide me in my further development in front end design and developing. 
 
-**Link(s) to work**
+### Day 8: Wednesday, October 21st, 2020
 
+**Today's Progress**: Updating and refining my Front End Development Portfolio
+
+**Thoughts** Spent a significant amount of time refining my portfolio. Updated background, pictures, added new images and links. It is beautiful on my local machine, but it isn't communicating with BlueHost my service supporter. That is a solution for tomorrow's work. 
+
+**Link(s) to work**
+www.kathrynhoelscher.com
