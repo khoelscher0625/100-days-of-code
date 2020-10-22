@@ -44,5 +44,11 @@
 
 **Thoughts** I love that I have found a resource that allows me to apply the skills I already have, and then learn new ones related to them. I may have to do #100DaysofCode slightly different than originally planned. With my family life, it is better for me to code Monday through Friday. I still the skills that I need and am able to balance home life responsibilities. 
 
+### Day 8: Wednesday, October 21st, 2020
+
+**Today's Progress**: Completed the CSS Grid lessons on freeCodeCamp
+
+**Thoughts** New learning for CSS. CSS Grid frameworks are so amazing. I love that each day I am learning more fundamentals that will aide me in my further development in front end design and developing. 
+
 **Link(s) to work**
 
